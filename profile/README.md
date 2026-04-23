@@ -5,6 +5,6 @@ Paru Banjara and Jing Yin
 
 ### The work can be found using the links below:
 
-1. [Topic Evolution](https://github.com/Social-Media-Help-Seeking-ML/yinjasim)
-2. [Risk Detection](https://github.com/Social-Media-Help-Seeking-ML/pbanjara)
+#### 1. [Topic Evolution](https://github.com/Social-Media-Help-Seeking-ML/yinjasim)
+#### 2. [Risk Detection](https://github.com/Social-Media-Help-Seeking-ML/pbanjara)
 
