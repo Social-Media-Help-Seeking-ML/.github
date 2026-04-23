@@ -1,4 +1,5 @@
-# SI 699 Project
+# SI 699 Capstone Project
+Paru Banjara and Jing Yin | SI 699
 
 ## Topic Evolution and Risk Detection in Reddit Mental Health Posts
 
